@@ -1,0 +1,3 @@
+echo $HOME
+ls -la
+
